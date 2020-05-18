@@ -3,7 +3,7 @@
 
 My notes from the video and the hive.
 * Link: https://app.pluralsight.com/channels/player?courseId=e4d99c97-d616-40c8-949a-bcc8f92dcdd7&channelId=d441e420-64fb-45b7-bcda-9b738f9a08e3
-* Link: 
+* Link: https://the-hive.bbd.co.za/course/db
 
 ## The Problem Databases solve:
 
